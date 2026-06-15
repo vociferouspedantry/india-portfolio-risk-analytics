@@ -34,3 +34,14 @@ A Monte Carlo-based portfolio risk analytics framework built around a 20-stock N
 
 Sahej Verma
 Madras School of Economics
+
+## Sample Visuals
+
+### Portfolio Overview
+![Portfolio Overview](images/page1.png)
+
+### Risk & Tail Analysis
+![Risk Analysis](images/page2.png)
+
+### Correlation Dynamics
+![Correlation](images/page3.png)
